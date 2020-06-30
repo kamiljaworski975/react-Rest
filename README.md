@@ -2,7 +2,7 @@
 To do list, and recipe searching. 
 
 # Description
-This project was create using:
+This project has been created using:
  - React
  - Firebase
  - React-Router
