@@ -1,6 +1,14 @@
 # react-Rest
 To do list, and recipe searching. 
 
+# Description
+This project was create using:
+ - React
+ - Firebase
+ - React-Router
+ - Axios
+ - Styled Components
+
 ## Available Scripts
 
 In the project directory, you can run:
